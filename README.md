@@ -43,16 +43,18 @@ A short demonstration of the application features:
 
 ---
 
-## 📁 File Structure
- assets/
+assets/
 ├── screenshots/
-│ ├── Employee_List.png # Full employee directory
-│ ├── Training_Tracker_Detailed.png # Main training database with VLOOKUP
-│ ├── Training_Dashboard_By_Year.png # Annual training summary
-│ ├── Pivot_Tables_Summary.png # Department/provider analysis
-│ └── Status_Codes_Legend.png # Status and code definitions
-├── demo/ # Demo video
-└── excel_filetraining management and monitoring.xlsx/ # Excel workbook version
+│   ├── Employee_List.png                # Full employee directory
+│   ├── Training_Tracker_Detailed.png    # Main training database (VLOOKUP)
+│   ├── Training_Dashboard_By_Year.png   # Annual training summary dashboard
+│   ├── Pivot_Tables_Summary.png         # Department & provider analysis
+│   └── Status_Codes_Legend.png           # Status and code definitions
+├── demo/
+│   └── demo_thumbnail.png               # Demo video thumbnail
+└── excel_files/
+    └── training_management_and_monitoring.xlsx  # Excel workbook
+
 
 
 
