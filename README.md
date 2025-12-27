@@ -1,12 +1,8 @@
 # 📊 Training Management & Monitoring System – Excel Dashboard
 
 
-
-
 ## 📋 Project Overview
 A comprehensive Excel-based training management system designed to track employee training activities, providers, durations, completion status, and performance ratings. This tool helps HR departments efficiently plan, monitor, and evaluate training programs across the organization.
-
----
 
 ---
 
