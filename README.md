@@ -83,14 +83,17 @@ A comprehensive Excel-based training management system designed to track employe
 
 ### 5. **Training Status Management**
 ![Status Dropdown](assets/screenshots/Status_DropDown_List.png)
+
 *Training status workflow with dropdown selection*
 
 ### 6. **Training Selection Dropdown**
 ![Training Dropdown](assets/screenshots/Training_Dropdown_List.png)
+
 *Standardized training topic selection from predefined lists*
 
 ### 7. **System Settings & Configuration**
 ![Settings](assets/screenshots/Settings.png)
+
 *Configuration panel for providers, departments, and system parameters*
 
 ## 📈 Key Insights & Analytics
