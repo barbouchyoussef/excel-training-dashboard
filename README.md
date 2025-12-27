@@ -1,11 +1,16 @@
 # 📊 Training Management & Monitoring System – Excel Dashboard
 
-### Demo 
-Check the `assets/demo/` folder for:
-- **[▶️ demo.webm](assets/demo/demo.webm)** - Full system demonstration video
-- Example datasets
-- Usage tutorials
-- Template files for quick start
+---
+
+## Demo Video
+
+A short demonstration of the application features:
+
+[![Demo Video](assets/demo/demo_thumbnail.png)](https://drive.google.com/file/d/1w0a84uLUkTjE3-eBGGk5bp8u6XxRE0xp/view?usp=sharing)
+
+*Click the image to download/play the demo video.*
+
+---
 
 
 ## 📋 Project Overview
