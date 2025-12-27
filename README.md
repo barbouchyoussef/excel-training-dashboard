@@ -71,14 +71,17 @@ A comprehensive Excel-based training management system designed to track employe
 
 ### 2. **Main Training Database (bdd Sheet)**
 ![Training Database](assets/screenshots/Training_Tracker_Detailed.png)
+
 *Core training tracker showing VLOOKUP formulas and training details*
 
 ### 3. **Annual Training Dashboard**
 ![Annual Dashboard](assets/screenshots/Training_Dashboard_By_Year.png)
+
 *"Suivi et gestion des formations" - Yearly overview (2017-2020)*
 
 ### 4. **PivotTable Analysis**
 ![Pivot Tables](assets/screenshots/Pivot_Tables_Summary.png)
+
 *Key analytics including training hours by department and provider performance*
 
 ### 5. **Training Status Management**
