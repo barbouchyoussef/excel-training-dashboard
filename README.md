@@ -42,18 +42,23 @@ A short demonstration of the application features:
 - Consistent formatting across all sheets
 
 ---
+## Files Structure
 
+
+```plaintext
 assets/
 ├── screenshots/
 │   ├── Employee_List.png                # Full employee directory
 │   ├── Training_Tracker_Detailed.png    # Main training database (VLOOKUP)
 │   ├── Training_Dashboard_By_Year.png   # Annual training summary dashboard
 │   ├── Pivot_Tables_Summary.png         # Department & provider analysis
-│   └── Status_Codes_Legend.png           # Status and code definitions
+│   └── Status_Codes_Legend.png          # Status and code definitions
 ├── demo/
 │   └── demo_thumbnail.png               # Demo video thumbnail
 └── excel_files/
     └── training_management_and_monitoring.xlsx  # Excel workbook
+```
+
 
 
 
