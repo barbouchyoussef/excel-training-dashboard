@@ -65,27 +65,33 @@ A comprehensive Excel-based training management system designed to track employe
 
 ## 📸 Screenshots
 
-### 1. **Main Training Database (bdd sheet)**
-![Training Tracker](assets/screenshots/Training_Tracker_Detailed.png)
-*Main training database with VLOOKUP formulas for employee data retrieval*
-
-### 2. **Employee Directory (RH sheet)**
+### 1. **Employee Directory (RH Sheet)**
 ![Employee List](assets/screenshots/Employee_List.png)
-*Complete employee directory used for data lookup in the training database*
+*Complete employee directory with: Matricule, Nom, Prénom, Service*
+
+### 2. **Main Training Database (bdd Sheet)**
+![Training Database](assets/screenshots/Training_Tracker_Detailed.png)
+*Core training tracker showing VLOOKUP formulas and training details*
 
 ### 3. **Annual Training Dashboard**
 ![Annual Dashboard](assets/screenshots/Training_Dashboard_By_Year.png)
-*Year-over-year training analysis and tracking (2017-2020)*
+*"Suivi et gestion des formations" - Yearly overview (2017-2020)*
 
-### 4. **Pivot Table Summaries**
+### 4. **PivotTable Analysis**
 ![Pivot Tables](assets/screenshots/Pivot_Tables_Summary.png)
-*Department-wise training hours and provider performance analysis*
+*Key analytics including training hours by department and provider performance*
 
-### 5. **Training Status Legend**
-![Status Codes](assets/screenshots/Status_Codes_Legend.png)
-*Training status definitions and codes used throughout the system*
+### 5. **Training Status Management**
+![Status Dropdown](assets/screenshots/Status_DropDown_List.png)
+*Training status workflow with dropdown selection*
 
----
+### 6. **Training Selection Dropdown**
+![Training Dropdown](assets/screenshots/Training_Dropdown_List.png)
+*Standardized training topic selection from predefined lists*
+
+### 7. **System Settings & Configuration**
+![Settings](assets/screenshots/Settings.png)
+*Configuration panel for providers, departments, and system parameters*
 
 ## 📈 Key Insights & Analytics
 
