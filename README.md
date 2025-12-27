@@ -1,8 +1,20 @@
-# 📊 Training Management & Monitoring System – Excel Dashboard
+# 📊 Training Management & Monitoring System  
+### Excel-Based Data Analysis & Dashboard Project
 
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
+![Data Analytics](https://img.shields.io/badge/Focus-Data%20Analytics-blue)
+![Academic](https://img.shields.io/badge/Project-Academic-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-success)
+
+---
 
 ## 📋 Project Overview
-A comprehensive Excel-based training management system designed to track employee training activities, providers, durations, completion status, and performance ratings. This tool helps HR departments efficiently plan, monitor, and evaluate training programs across the organization.
+
+This project is an **Excel-based Training Management and Monitoring System** developed as an **academic project in Business Intelligence / Business Informatics**.
+
+It is designed to help HR departments **track, analyze, and evaluate employee training programs** using structured data, automated formulas, PivotTables, and interactive dashboards.
+
+The project demonstrates strong skills in **data modeling, data validation, analytics, and decision-support reporting** using Microsoft Excel.
 
 ---
 
