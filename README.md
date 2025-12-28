@@ -8,13 +8,8 @@
 
 ---
 
-## 📋 Project Overview
-
-This project is an **Excel-based Training Management and Monitoring System** developed as an **academic project in Business Intelligence / Business Informatics**.
-
-It is designed to help HR departments **track, analyze, and evaluate employee training programs** using structured data, automated formulas, PivotTables, and interactive dashboards.
-
-The project demonstrates strong skills in **data modeling, data validation, analytics, and decision-support reporting** using Microsoft Excel.
+###  **Annual Training Dashboard**
+![Annual Dashboard](assets/screenshots/Training_Dashboard_By_Year.png)
 
 ---
 
@@ -25,6 +20,16 @@ A short demonstration of the application features:
 [![Demo Video](assets/demo/demo_thumbnail.png)](https://drive.google.com/file/d/1w0a84uLUkTjE3-eBGGk5bp8u6XxRE0xp/view?usp=sharing)
 
 *Click the image to download/play the demo video.*
+
+---
+
+## 📋 Project Overview
+
+This project is an **Excel-based Training Management and Monitoring System** developed as an **academic project in Business Intelligence / Business Informatics**.
+
+It is designed to help HR departments **track, analyze, and evaluate employee training programs** using structured data, automated formulas, PivotTables, and interactive dashboards.
+
+The project demonstrates strong skills in **data modeling, data validation, analytics, and decision-support reporting** using Microsoft Excel.
 
 ---
 
@@ -85,7 +90,7 @@ assets/
 
 ---
 
-## 📸 Screenshots
+## Setup
 
 ### 1. **Employee Directory (RH Sheet)**
 ![Employee List](assets/screenshots/Employee_List.png)
@@ -96,27 +101,22 @@ assets/
 
 *Core training tracker showing VLOOKUP formulas and training details*
 
-### 3. **Annual Training Dashboard**
-![Annual Dashboard](assets/screenshots/Training_Dashboard_By_Year.png)
-
-*"Suivi et gestion des formations" - Yearly overview (2017-2020)*
-
-### 4. **PivotTable Analysis**
+### 3. **PivotTable Analysis**
 ![Pivot Tables](assets/screenshots/Pivot_Tables_Summary.png)
 
 *Key analytics including training hours by department and provider performance*
 
-### 5. **Training Status Management**
+### 4. **Training Status Management**
 ![Status Dropdown](assets/screenshots/Status_DropDown_List.png)
 
 *Training status workflow with dropdown selection*
 
-### 6. **Training Selection Dropdown**
+### 5. **Training Selection Dropdown**
 ![Training Dropdown](assets/screenshots/Training_Dropdown_List.png)
 
 *Standardized training topic selection from predefined lists*
 
-### 7. **System Settings & Configuration**
+### 6. **System Settings & Configuration**
 ![Settings](assets/screenshots/Settings.png)
 
 *Configuration panel for providers, departments, and system parameters*
